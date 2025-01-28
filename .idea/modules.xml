@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/Enumerador/Enumerador.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/Enumerador/Enumerador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estudos-Java.iml" filepath="$PROJECT_DIR$/.idea/Estudos-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/POO/ProjetinhoHerança/ProjetinhoHerança.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/POO/ProjetinhoHerança/ProjetinhoHerança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/ProjetoContaBancariaEspecial/ProjetoContaBancariaEspecial.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/ProjetoContaBancariaEspecial/ProjetoContaBancariaEspecial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/ProjetoPackage/ProjetoPackage.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/ProjetoPackage/ProjetoPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/POO/ProjetoTime/ProjetoTime.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/POO/ProjetoTime/ProjetoTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsiFlix/Fundamentals/UniversiPi/UniversiPi.iml" filepath="$PROJECT_DIR$/IsiFlix/Fundamentals/UniversiPi/UniversiPi.iml" />
+    </modules>
+  </component>
+</project>
