@@ -1,0 +1,5 @@
+# Ignorar a pasta .idea do IntelliJ IDEA
+.idea/
+
+# Ignorar todos os arquivos .iml
+*.iml
