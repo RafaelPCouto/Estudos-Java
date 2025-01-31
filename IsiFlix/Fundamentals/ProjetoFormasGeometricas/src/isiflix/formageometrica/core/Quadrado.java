@@ -16,12 +16,12 @@ public class Quadrado extends FormaGeometrica implements InterfaceForma2D {
     }
 
     @Override
-    public double calcularPerimetro() {
+    public double calcularArea() {
         return this.lado * this.lado;
     }
 
     @Override
-    public double calcularArea() {
+    public double calcularPerimetro() {
         return this.lado * 4;
     }
 }

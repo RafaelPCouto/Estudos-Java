@@ -17,7 +17,7 @@ public class Paralelepipedo extends FormaGeometrica implements InterfaceForma3D 
 
     @Override
     public String toString() {
-        return "Paralelepipedo com valores: \n" + "Altura: " + this.altura + " Largura: " + this.largura + "Profundidade: " + this.profundidade + "\nVolume: " + this.calcularVolume();
+        return "Paralelepipedo com valores: \n" + "Altura: " + this.altura + " Largura: " + this.largura + " Profundidade: " + this.profundidade + "\nVolume: " + this.calcularVolume();
     }
 
     @Override
